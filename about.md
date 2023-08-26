@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm an electronics and embedded systems enthuasist.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Here's a way to get in touch if you don't already know how.
+[ratio-spork.0x@icloud.com](mailto:ratio-spork.0x@icloud.com)
