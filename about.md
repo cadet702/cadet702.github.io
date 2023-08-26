@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm an electronics and embedded systems enthuasist.
+I'm an electronics and embedded systems enthuasist.  (TODO: add 1000 Baseball Cards Under The Sea story here)
 
 ### Contact me
 
