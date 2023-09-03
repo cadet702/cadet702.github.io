@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Peter's Projects!
+date: 2023-08-22
 ---
 
 # The Project List
