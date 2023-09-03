@@ -12,6 +12,11 @@ description: Tinkering with electronics, software, and GitHub pages
 avatar: https://avatars.githubusercontent.com/u/32227645?v=4
 #https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
+# Adding collections
+collections:
+ projects:
+ people:
+
 #
 # Flags below are optional
 #
