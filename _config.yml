@@ -15,6 +15,7 @@ avatar: https://avatars.githubusercontent.com/u/32227645?v=4
 # Adding collections
 collections:
  projects:
+  output: true
  people:
 
 #
