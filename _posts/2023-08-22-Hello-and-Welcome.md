@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Peter's Projects!
+excerpt: read this first
 date: 2023-08-22
 ---
 
