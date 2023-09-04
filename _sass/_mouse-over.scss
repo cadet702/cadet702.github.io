@@ -1,0 +1,49 @@
+// This is a test of something found online
+@import "bourbon";
+
+
+.grid-unit{
+  width:400px;
+}
+
+.site-link-parent{
+	position:relative;
+}
+
+.site-link-container{
+	position:absolute;
+	display:table;
+	height:300px;
+	width:100%;
+   margin: 0;
+
+	.site-link{
+    color:orange;
+
+    display: table-cell;
+    text-align:center;
+    vertical-align:middle;
+    left: 0;
+    top: 0;
+
+    opacity: 0;
+    width: 90%;
+    height: 90%;
+
+    padding:5%;
+
+    z-index: 2;
+    @include transition(opacity 300ms ease-in-out);
+    font-weight:bold;
+    text-decoration:none !important;
+
+    span{ 		
+      font-weight:lighter;
+    }
+	}
+	&:hover .site-link{
+		opacity:0.9;
+		background-color:purple;
+	}
+
+}
