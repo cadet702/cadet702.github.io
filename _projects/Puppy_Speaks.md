@@ -1,6 +1,9 @@
 ---
 layout: item
 title: Doggy Buttons!
+status: "not at thing"
+nz_status: "definitely not a thing"
+distribution: tbd
 categories: raspberry-pi salvage-build
 tags: raspberry-pi salvage-build wip
 ---
