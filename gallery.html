@@ -4,7 +4,11 @@ title: Project Gallery
 permalink: /projects/
 ---
 
+<h1 class="col-header dark-orange">Project Gallery</h1>
+
 {% for project in site.projects %}
+<div class="project-preview">
  <img src="{{ project.image }}" alt="{{ project.image_alt }}">
  <span>{{ project.description }}</span>
+</div>
 {% endfor %}
