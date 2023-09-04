@@ -2,7 +2,8 @@
 layout: post
 title: Doggy Buttons!
 date: 2023-08-21
-
+categories: raspberry-pi salvage-build
+tags: raspberry-pi salvage-build wip
 ---
 
 # Insiration
