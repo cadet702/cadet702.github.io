@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: item
 title: Doggy Buttons!
 ---
 
