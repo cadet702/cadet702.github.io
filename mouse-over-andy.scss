@@ -3,9 +3,10 @@
 .image-link {
   position: relative;
 }
-.image-link:hover > .image-link__image, 
-.image-link:focus > .image-link__image {
-  display: none; // static //none //block
+.image-link:hover > .image-link__image //, 
+//.image-link:focus > .image-link__image 
+{
+  display: block; // static //none //block
 }
 .image-link__image {
   display: none;
