@@ -1,0 +1,17 @@
+// This is a test of Andy's example
+
+.image-link {
+  position: relative;
+}
+.image-link:hover > .image-link__image, 
+.image-link:focus > .image-link__image {
+  display: block;
+}
+.image-link__image {
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: translateX(-50%);
+  padding: 15px;
+}
