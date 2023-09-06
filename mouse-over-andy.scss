@@ -5,7 +5,7 @@
 }
 .image-link:hover > .image-link__image, 
 .image-link:focus > .image-link__image {
-  display: block;
+  display: none; // static //none //block
 }
 .image-link__image {
   display: none;
